@@ -1,0 +1,72 @@
+body {
+    background-image: url("http://www.plan-the-perfect-baby-shower.com/images/166xNxvideo-game-themed-baby-shower.jpg.pagespeed.ic.N-GsEYuPhF.jpg");
+    font-family: 'Press Start 2P', cursive;
+}
+#lobby {
+    background-color: yellow;
+    height: 500px;
+    width: 70%;
+    margin: 0 auto;
+}
+#question {
+    text-align: center;
+    padding-top: 100px;
+}
+#start {
+    height: 100px;
+    width: 150px;
+    margin-left: 35%;
+    margin-top: 70px;
+    border-radius: 5px;
+    background-color: darkblue;
+    color: white;
+}
+
+#quiz {
+    display: none;
+    background-color: yellow;
+    height: 700px;
+    width: 90%;
+    margin: 0 auto;
+}
+p {
+    font-size: 12px;
+    margin: 5px;
+    padding: 5px;
+}
+input {
+    margin-bottom: 10px;
+}
+
+.question2 {
+    font-size: 13px;
+}
+.question4 {
+    font-size: 11px;
+}
+.question5 {
+    font-size: 9px;
+    margin: 0 0 10px 0;
+}
+#finish {
+    height: 100px;
+    width: 150px;
+    margin-left: 35%;
+    margin-top: 0px;
+    border-radius: 5px;
+    background-color: darkblue;
+    color: white;
+}
+#timer {
+    margin: 10px;
+    text-align: center;
+}
+#end {
+    display: none;
+    background-color: yellow;
+    height: 500px;
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+}
