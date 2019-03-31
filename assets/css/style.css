@@ -1,6 +1,7 @@
 body {
     background-image: url("http://www.plan-the-perfect-baby-shower.com/images/166xNxvideo-game-themed-baby-shower.jpg.pagespeed.ic.N-GsEYuPhF.jpg");
     font-family: 'Press Start 2P', cursive;
+    text-align: center;
 }
 #lobby {
     background-color: yellow;
@@ -15,7 +16,6 @@ body {
 #start {
     height: 100px;
     width: 150px;
-    margin-left: 35%;
     margin-top: 70px;
     border-radius: 5px;
     background-color: darkblue;
@@ -51,7 +51,6 @@ input {
 #finish {
     height: 100px;
     width: 150px;
-    margin-left: 35%;
     margin-top: 0px;
     border-radius: 5px;
     background-color: darkblue;
